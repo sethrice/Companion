@@ -3,11 +3,11 @@ source ${SCRIPT_DIR}/../CONFIG.inc
 
 PACKAGE=TweakScaleCompanion
 TARGETDIR="$PACKAGE"
-TARGETBINDIR=""
-PROJECTSDIR=""
+TARGETBINDIR="${PACKAGE}"
+PROJECTSDIR="${PACKAGE}"
 VERSIONFILE="TweakScaleCompanion.version"
 
-DLLS=""
+DLLS="TweakScaleCompanion"
 # PluginData DLLs
 PD_DLLS=""
 # Rule oriented deployoment for PluginData
