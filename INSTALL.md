@@ -19,6 +19,8 @@ To install, place the `GameData` folder from the package inside your Kerbal Spac
 * Extract the package's `GameData/` folder into your KSP's as follows:
 	+ `<PACKAGE>/GameData/TweakScaleCompanion ` --> `<KSP_ROOT>/GameData`
 		- Overwrite any preexisting files.
+* If (and only if) you have any of the Add'ons present in the `<PACKAGE>/Extras` directory, copy the `Extra` contents into your `GameData`, replacing any existent file.
+	+ Speaking frankly, this is highly unusual and on an ideal world, it should be avoided - but on this specific case, I found no other clean solution.
 
 The following file layout must be present after installation (includes the non included dependencies listed below):
 
