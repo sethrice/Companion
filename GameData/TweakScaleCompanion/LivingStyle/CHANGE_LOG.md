@@ -1,5 +1,8 @@
 # TweakScale Companion :: Living Style :: Change Log
 
+* 2025-1212: 0.0.3.2 (LisiasT) for KSP >= 1.2.2
+	+ Pretty embarrassing mistake fixed on HabTech2 support.
+		- Not one of my best moments... :/
 * 2025-0207: 0.0.3.1 (LisiasT) for KSP >= 1.2.2
 	+ Adds support for [SSPXr](https://forum.kerbalspaceprogram.com/topic/170211-*/)
 	+ Updating the add'ons nomenclature to cope with [Abbreviations for Add'Ons](https://forum.kerbalspaceprogram.com/topic/194416-abbreviations-for-addonss)
