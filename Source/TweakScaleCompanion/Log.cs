@@ -1,6 +1,6 @@
 ﻿/*
 	This file is part of TweakScale Companion™
-		© 2020-2025 LisiasT
+		© 2020-2026 LisiasT
 
 	THIS FILE is licensed to you under:
 		* WTFPL - http://www.wtfpl.net

@@ -1,6 +1,6 @@
 ﻿/*
 	This file is part of TweakScale Companion™
-		© 2020-2025 LisiasT
+		© 2020-2026 LisiasT
 
 	TweakScale Companion™ is double licensed, as follows:
 		* SKL 1.0 : https://ksp.lisias.net/SKL-1_0.txt

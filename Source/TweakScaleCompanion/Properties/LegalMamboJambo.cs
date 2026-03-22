@@ -1,6 +1,6 @@
 ﻿/*
 	This file is part of TweakScale Companion™
-		© 2020-2025 LisiasT
+		© 2020-2026 LisiasT
 
 	TweakScale Companion™ is double licensed, as follows:
 		* SKL 1.0 : https://ksp.lisias.net/SKL-1_0.txt
@@ -24,7 +24,7 @@ namespace TweakScaleCompanion
 	public static class LegalMamboJambo
 	{
 		public const string Company = "L Aerospace/KSP Division";
-		public const string Copyright = "Copyright © 2020-2025 LisiasT";
+		public const string Copyright = "Copyright © 2020-2026 LisiasT";
 		public const string Product = "TweakScale Companion";
 		public const string Trademark = "TweakScale Companion™ LisiasT";
 	}
