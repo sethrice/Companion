@@ -4,10 +4,10 @@
 	"DOWNLOAD"	: "https://github.com/TweakScale/Companion/releases",
 
 	"VERSION":{
-		"MAJOR":2025,
-		"MINOR":12,
-		"PATCH":12,
-		"BUILD":1
+		"MAJOR":2026,
+		"MINOR":03,
+		"PATCH":21,
+		"BUILD":0
 		},
 	"KSP_VERSION_MIN":{
 		"MAJOR":1,
